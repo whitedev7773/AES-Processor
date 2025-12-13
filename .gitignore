@@ -1,3 +1,13 @@
 # docs
 Guide.pdf
 ROADMAP.md
+.gemini/
+gha-creds-*.json
+
+# C build artifacts
+c/aes
+c/*.o
+
+# Test files
+c/output.txt
+c/decrypted_output.txt
